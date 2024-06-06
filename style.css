@@ -1,6 +1,7 @@
 body {
 background-color: black;
 }
-#title {
+h1 {
+text-align: center;
 color: #E55904;
 }
